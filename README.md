@@ -12,5 +12,6 @@ I wrote down all the addresses from which Yandex Home submitted requests. Then I
 5.45.207.0/24
 141.8.142.0/24
 5.255.253.0/24
+37.9.68.128/26
 ```
 Google Home adresses: https://github.com/allmazz/google_home_ip
