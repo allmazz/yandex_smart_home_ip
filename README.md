@@ -11,6 +11,8 @@ I wrote down all the addresses from which Yandex Home submitted requests. Then I
 37.9.87.0/26
 5.45.207.0/24
 141.8.142.0/24
+141.8.129.0/26
+141.8.129.64/26
 5.255.253.0/24
 37.9.68.128/26
 ```
