@@ -2,7 +2,7 @@
 IPs(subnets) used by Yandex Home(Alice)
 # Subnets
 I captured addresses from which Yandex Home submits requests, and looked up the subnets via WHOIS.
-You can use it for improve security.
+You can use it for security purposes.
 
 ```
 allow 5.45.207.0/24;
