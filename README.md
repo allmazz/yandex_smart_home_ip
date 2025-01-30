@@ -1,7 +1,8 @@
 # yandex_smart_home_ip
 IPs(subnets) used by Yandex Home(Alice)
 # Subnets
-I wrote down all the addresses from which Yandex Home submitted requests. Then I checked through WHOIS the service to whom the IP belongs and the subnet.
+I captured addresses from which Yandex Home submits requests, and looked up the subnets via WHOIS.
+You can use it for improve security.
 
 ```
 allow 5.45.207.0/24;
@@ -34,4 +35,4 @@ allow 141.8.142.0/24;
 /ip firewall address-list add address=141.8.129.0/24 list=ya_home;
 /ip firewall address-list add address=141.8.142.0/24 list=ya_home;
 ```
-Google Home adresses: https://github.com/allmazz/google_home_ip
+Google Home addresses: https://github.com/allmazz/google_home_ip
