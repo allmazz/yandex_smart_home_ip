@@ -35,4 +35,3 @@ allow 141.8.142.0/24;
 /ip firewall address-list add address=141.8.129.0/24 list=ya_home;
 /ip firewall address-list add address=141.8.142.0/24 list=ya_home;
 ```
-Google Home addresses: https://github.com/allmazz/google_home_ip
