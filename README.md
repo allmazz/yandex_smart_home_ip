@@ -1,3 +1,7 @@
+# ARCHIVED
+
+Use https://yandex.ru/ips instead
+
 # yandex_smart_home_ip
 IPs(subnets) used by Yandex Home(Alice)
 # Subnets
